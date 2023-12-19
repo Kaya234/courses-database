@@ -1,5 +1,5 @@
 # Courses Database
-Courses Database is a JSON database for Courses demo page. Each course is represented as a separate object, containing several attributes.
+Courses Database is a JSON object database for Courses demo page. Each course is represented as a separate object, containing several attributes.
 
 ## Atributes
 `id [number]` - A unique identifier for the course\
